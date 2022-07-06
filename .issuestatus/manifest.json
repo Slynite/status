@@ -1,6 +1,6 @@
 {
-  "short_name": "Issue Status",
-  "name": "Simple, modern and flexible status page",
+  "short_name": "Slynite Status",
+  "name": "Status page for Slynite services",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://tadhglewis.github.io/issue-status",
+  "start_url": "https://status.slynite.com",
   "display": "standalone",
   "theme_color": "#3da751"
 }
