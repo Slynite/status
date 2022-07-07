@@ -79,7 +79,6 @@ export default ({ incident }) => (
     </Details>
     <Title>{incident.title}</Title>
     <Comment>
-        {console.log(incident.body)}
       <ReactMarkdown children={incident.body} />
     </Comment>
   </Incident>
