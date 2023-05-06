@@ -1,3 +1,5 @@
+> ⚠️ This repository was replaced by [slynite/status-page](https://github.com/slynite/status-page)
+
 # Slynite Status
 
 Status page for Slynite services
